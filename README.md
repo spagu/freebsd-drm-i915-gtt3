@@ -93,4 +93,7 @@ application that triggered one within minutes before. See
 ## Links
 
 - drm-kmod issue [#464](https://github.com/freebsd/drm-kmod/issues/464) "GPU crashes with 6.12; corrupted display"
+- Findings posted to #464: https://github.com/freebsd/drm-kmod/issues/464#issuecomment-6832466975
+- Ports MFH request for 2026Q4: [PR 300726](https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=300726)
+- Write-up: https://tradik.com/blog/freebsd-drm-i915-gtt-version-gpu-hang/
 - Mesa `has_mmap_offset`: `src/intel/dev/i915/intel_device_info.c`
