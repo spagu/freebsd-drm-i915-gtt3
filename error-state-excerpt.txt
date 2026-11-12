@@ -1,0 +1,10 @@
+GPU HANG: ecode 8:1:85dfffff, in MainThread [100930]
+Platform: BROADWELL
+PCI ID: 0x1616
+  HEAD:  0x00001610 [0x000015b8]
+  ACTHD: 0x00000000 00001610
+  IPEHR: 0x7a000004
+  INSTDONE: 0xffdffffb
+    busy: CS
+    busy: VS
+  BBADDR: 0x0000fffe_fe5600d8

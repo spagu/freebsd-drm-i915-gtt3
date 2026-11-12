@@ -1,0 +1,5 @@
+*.o
+*.ko
+*.tar.gz
+obj/
+drm-kmod-6.12.85_3/
